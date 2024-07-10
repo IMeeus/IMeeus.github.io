@@ -8,10 +8,12 @@
     <subtitle>Yow Blog</subtitle>
     <icon>https://imeeus.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Reaching mockist nirvana]]></title>
+        <title type="html"><![CDATA[London TDD Nirvana]]></title>
         <id>https://imeeus.github.io/blog/mockist-nirvana</id>
         <link href="https://imeeus.github.io/blog/mockist-nirvana"/>
         <updated>2024-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction" href="https://imeeus.github.io/blog/mockist-nirvana#introduction">​</a></h2>]]></content>
         <author>
             <name>Alexander Meeus</name>
             <uri>https://github.com/IMeeus</uri>
